@@ -1,0 +1,3 @@
+# Steam Idle Discord Bot
+
+Setup instructions and usage...
